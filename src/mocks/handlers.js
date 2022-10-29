@@ -32,18 +32,24 @@ export const handlers = [
                     title: " Spor Ayakkabı - Man's -",
                     imageUrl: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
                     price: "150,00 $",
+                    description: " Deneme - Air Force 1 PLT.AF.ORM ile giymesi kolay, klasik AF1 stiline bürün. Zarif şekli ve yükseltilmiş orta tabanıyla basketbol serisine yeni ve göz alıcı bir tasarım kazandırır. Deri üst kısım ayağına kolayca uyum sağlar ve zaman içinde mükemmel bir yumuşaklığa kavuşur. Şekillendirilmiş bilek kısmı ve yumuşak topuk ise rahat etmeni sağlar. Seni izleyenleri etkile.",
+
                 },
                 {
                     id: 2,
                     title: " Spor Ayakkabı - Unisex ",
                     imageUrl: "https://images.unsplash.com/photo-1560769629-975ec94e6a86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
                     price: "130,00 $",
+                    description: " Deneme - Air Force 1 PLT.AF.ORM ile giymesi kolay, klasik AF1 stiline bürün. Zarif şekli ve yükseltilmiş orta tabanıyla basketbol serisine yeni ve göz alıcı bir tasarım kazandırır. Deri üst kısım ayağına kolayca uyum sağlar ve zaman içinde mükemmel bir yumuşaklığa kavuşur. Şekillendirilmiş bilek kısmı ve yumuşak topuk ise rahat etmeni sağlar. Seni izleyenleri etkile.",
+
                 },
                 {
                     id: 3,
                     title: " Spor Ayakkabı - Unisex",
                     imageUrl: "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=698&q=80",
                     price: "139,00 $",
+                    description: " Deneme - Air Force 1 PLT.AF.ORM ile giymesi kolay, klasik AF1 stiline bürün. Zarif şekli ve yükseltilmiş orta tabanıyla basketbol serisine yeni ve göz alıcı bir tasarım kazandırır. Deri üst kısım ayağına kolayca uyum sağlar ve zaman içinde mükemmel bir yumuşaklığa kavuşur. Şekillendirilmiş bilek kısmı ve yumuşak topuk ise rahat etmeni sağlar. Seni izleyenleri etkile.",
+
                 },
             ];
 

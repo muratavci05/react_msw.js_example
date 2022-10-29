@@ -60,12 +60,20 @@ function App() {
               alt={product.title} 
               style={{width:"200px"}}  />
           <div className="productmains">
-          <div className="titlePart">
-              {product.title} 
-          </div>
-          <div className="pricePart">
-              {product.price}
-          </div>
+            <div className="btnBuyBuy">
+              <button >Sepete Ekle</button>
+            </div>
+              <div className="titlePart">
+                  {product.title} 
+              </div>
+              <div className="pricePart">
+                  {product.price}
+                  
+              </div>
+              <div className="descriptionPart">
+                {product.description}
+              </div>
+
           </div>
            
           </div>

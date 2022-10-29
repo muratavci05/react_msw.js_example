@@ -51,6 +51,30 @@ export const handlers = [
                     description: " Deneme - Air Force 1 PLT.AF.ORM ile giymesi kolay, klasik AF1 stiline bürün. Zarif şekli ve yükseltilmiş orta tabanıyla basketbol serisine yeni ve göz alıcı bir tasarım kazandırır. Deri üst kısım ayağına kolayca uyum sağlar ve zaman içinde mükemmel bir yumuşaklığa kavuşur. Şekillendirilmiş bilek kısmı ve yumuşak topuk ise rahat etmeni sağlar. Seni izleyenleri etkile.",
 
                 },
+                {
+                    id: 4,
+                    title: " Kozmetik Ürün - Womans",
+                    imageUrl: "https://images.unsplash.com/photo-1620104399414-98e6b7559d90?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=976&q=80",    
+                    price: "59,00 $",
+                    description: " Deneme - Air Force 1 PLT.AF.ORM ile giymesi kolay, klasik AF1 stiline bürün. Zarif şekli ve yükseltilmiş orta tabanıyla basketbol serisine yeni ve göz alıcı bir tasarım kazandırır. Deri üst kısım ayağına kolayca uyum sağlar ve zaman içinde mükemmel bir yumuşaklığa kavuşur. Şekillendirilmiş bilek kısmı ve yumuşak topuk ise rahat etmeni sağlar. Seni izleyenleri etkile.",
+
+                },
+                {
+                    id: 5,
+                    title: " Kozmetik Ürün - Womans",
+                    imageUrl: "https://images.unsplash.com/photo-1624939294323-bf08af865b35?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1120&q=80",  
+                    price: "49,00 $",
+                    description: " Deneme - Air Force 1 PLT.AF.ORM ile giymesi kolay, klasik AF1 stiline bürün. Zarif şekli ve yükseltilmiş orta tabanıyla basketbol serisine yeni ve göz alıcı bir tasarım kazandırır. Deri üst kısım ayağına kolayca uyum sağlar ve zaman içinde mükemmel bir yumuşaklığa kavuşur. Şekillendirilmiş bilek kısmı ve yumuşak topuk ise rahat etmeni sağlar. Seni izleyenleri etkile.",
+
+                },
+                {
+                    id: 6,
+                    title: " Kozmetik Ürün - Womans",
+                    imageUrl: "https://images.unsplash.com/photo-1619406266880-7e130b6c65c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",        
+                    price: "49,00 $",
+                    description: " Deneme - Air Force 1 PLT.AF.ORM ile giymesi kolay, klasik AF1 stiline bürün. Zarif şekli ve yükseltilmiş orta tabanıyla basketbol serisine yeni ve göz alıcı bir tasarım kazandırır. Deri üst kısım ayağına kolayca uyum sağlar ve zaman içinde mükemmel bir yumuşaklığa kavuşur. Şekillendirilmiş bilek kısmı ve yumuşak topuk ise rahat etmeni sağlar. Seni izleyenleri etkile.",
+
+                },
             ];
 
             if (limit) {

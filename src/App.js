@@ -35,7 +35,7 @@ function App() {
   const loadProducts = async () => {
     setLoading(true); //looading true olacak
 
-    const response = await (await fetch ("/products?limit=3")).json();  // api'den aldığımız ürünler
+    const response = await (await fetch ("/products?limit=10")).json();  // api'den aldığımız ürünler
     
     setProducts (response.data);
 

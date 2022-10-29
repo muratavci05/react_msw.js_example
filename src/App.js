@@ -1,4 +1,5 @@
 import React,{useEffect, useState} from "react";
+import "./styles.css";
 
 
 
@@ -43,20 +44,28 @@ function App() {
 
   return (
     <div className="App">
+      <div className="buttonComponent">
       <button onClick={login}>Login</button>
+      </div>
+      
 
       {loading && (
         <div>Loading...</div>
       )}
 
       {products.map (product => (
-        <div>
-          <img 
+        <div className="productsContainer">
+          <img className="productsImgs"
               src={product.imageUrl} 
               alt={product.title} 
-              style={{width:"250px"}}  />
-          <div>
-              {product.title} - {product.price}
+              style={{width:"200px"}}  />
+          <div className="productmains">
+          <div className="titlePart">
+              {product.title} 
+          </div>
+          <div className="pricePart">
+              {product.price}
+          </div>
           </div>
            
           </div>

@@ -29,21 +29,21 @@ export const handlers = [
             
                 {
                     id: 1,
-                    title: "Product - 1",
+                    title: " Spor Ayakkabı - Man's -",
                     imageUrl: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
-                    price: 100,
+                    price: "150,00 $",
                 },
                 {
                     id: 2,
-                    title: "Product - 2",
+                    title: " Spor Ayakkabı - Unisex ",
                     imageUrl: "https://images.unsplash.com/photo-1560769629-975ec94e6a86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
-                    price: 100,
+                    price: "130,00 $",
                 },
                 {
                     id: 3,
-                    title: "Product - 3",
+                    title: " Spor Ayakkabı - Unisex",
                     imageUrl: "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=698&q=80",
-                    price: 100,
+                    price: "139,00 $",
                 },
             ];
 

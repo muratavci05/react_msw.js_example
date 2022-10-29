@@ -1,0 +1,40 @@
+
+.App{
+    width: 1200px;
+    height: 100vh;
+    margin: auto;
+
+}
+
+.buttonComponent{
+    margin-bottom: 50px;
+    border: 2px solid white;
+}
+
+.buttonComponent button{
+    margin-left: 1100px;
+    float: left;
+}
+
+.productsImgs{
+    padding-bottom: 10px;
+
+
+}
+
+.productsContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    
+}
+
+.titlePart{
+    margin-right: 820px;
+    margin-top: -10px;
+    padding: -10px;
+}
+
+.pricePart{
+    margin-right: 820px;
+}

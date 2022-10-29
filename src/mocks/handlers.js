@@ -8,9 +8,17 @@ export const handlers = [
         // herhangibir request geldiğinde sessions'a is-authenticated değeri true olarak set ediliyor 
         sessionStorage.setItem('is-authenticated', 'true')
 
-        return response(
+        return res(
             // Respond with a 200 status code,(yanıt)
             ctx.status(200),
+           
+           // username"admin" olarak belirttim >>>
+            ctx.json ({
+                user: {
+                    username: "admin"
+                }
+            })
+            // <<<
           )
     }),
 
@@ -23,7 +31,7 @@ export const handlers = [
           return res(
             ctx.status(403),
             ctx.json({
-              errorMessage: 'Not authorized',
+              errorMessage: 'Yetkili Olmayan Bir İşlem',
             }),
           );
         }

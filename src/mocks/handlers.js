@@ -44,12 +44,12 @@ export const handlers = [
                         title: "Product - 3",
                         imageUrl: "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=698&q=80",
                         price: 100,
-                    },
+                    }
                 ]
             })
-        )
+        );
 
-    })
+    }),
 
     // Handles a GET /user request
     rest.get('/user', (req, res, ctx) => {
